@@ -1,4 +1,3 @@
 #!/bin/bash
-cp [OPTION]... [-T] SOURCE DEST
-cp [OPTION]... SOURCE... DIRECTORY
-cp [OPTION]... -t DIRECTORY SOURCE...
+cp -u ./*.html "$parent_dir"
+cp "$file" "$parent_dir"
