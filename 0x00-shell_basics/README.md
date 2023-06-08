@@ -1,1 +1,1 @@
-script that prints the absolute path name of the current working directory
+scripts, you will need to use this command: chmod u+x file
