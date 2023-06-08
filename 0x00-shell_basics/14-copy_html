@@ -1,2 +1,4 @@
 #!/bin/bash
-cp -u *.html
+cp [OPTION]... [-T] SOURCE DEST
+cp [OPTION]... SOURCE... DIRECTORY
+cp [OPTION]... -t DIRECTORY SOURCE...
