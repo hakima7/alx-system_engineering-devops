@@ -1,3 +1,2 @@
 #!/bin/bash
 cp -u ./*.html "$parent_dir"
-cp "$file" "$parent_dir"
